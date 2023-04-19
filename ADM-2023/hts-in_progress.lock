@@ -1,0 +1,7 @@
+Mirror in progress since Wed, 19 Apr 2023 09:13:09 .. please wait!
+winhttrack https://autourdunmoment.com -W -O "/workspaces/codespaces-blank/ADM-2023" -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=11249
+UID=1000
+GID=1000
+START=1681895589
